@@ -1,0 +1,3 @@
+mediapipe
+PyOpenGL 
+PyOpenGL-accelerate
